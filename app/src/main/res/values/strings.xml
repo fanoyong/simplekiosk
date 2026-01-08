@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SimpleKiso</string>
+    <string name="app_name">Simple Kiosk</string>
+    <string name="kiosk_admin_description">This uses admin permission in order to maintain kiosk mode</string>
 </resources>
